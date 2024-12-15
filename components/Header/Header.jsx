@@ -15,7 +15,7 @@ export default function Header(){
        <header className={styles['header']}>
             <Link className={styles['logo']} href="/">
                 <Image src={LogoImg} alt="A plate with food in it"  priority/>
-                Foodies
+                Spice Up
             </Link>
 
             <nav className={styles['nav']}>
